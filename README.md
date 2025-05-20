@@ -23,7 +23,6 @@ made for fun, vibes, and facts — Arfie answers your questions with personality
 3. also install pyside 6 for arfie 0.2
    ```bash
    pip install PySide6
-
    
 🧠 commands you can use
 help — shows command options
