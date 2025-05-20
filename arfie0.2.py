@@ -6,7 +6,7 @@ from PySide6.QtWidgets import (
 )
 from PySide6.QtGui import QFont
 
-COHERE_API_KEY = "OkYkpZVoMjHFb1p0DtX01bRggNtXK1sGOgR54S1N"  # replace with env later
+COHERE_API_KEY = "api key"  # replace with env later
 co = cohere.Client(COHERE_API_KEY)
 
 class Chatbot:
