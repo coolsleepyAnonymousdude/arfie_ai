@@ -1,6 +1,6 @@
-# Arfie 0.1 🤖
+# Arfie 🤖
 
-**arfie 0.1** is a Gen Z-flavored AI chatbot powered by [Cohere](https://cohere.com).  
+**arfie ** is a Gen Z-flavored AI chatbot powered by [Cohere](https://cohere.com).  
 he's chill, sarcastic, a little sassy, and actually helpful for real 💀  
 made for fun, vibes, and facts — Arfie answers your questions with personality
 
@@ -20,6 +20,9 @@ made for fun, vibes, and facts — Arfie answers your questions with personality
 2. install `cohere` if you haven’t:
    ```bash
    pip install cohere
+3. also install pyside 6 for arfie 0.2
+   ```bash
+   pip install PySide6
 
    
 🧠 commands you can use
