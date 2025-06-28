@@ -1,6 +1,6 @@
 # Arfie 🤖
 
-**arfie ** is a Gen Z-flavored AI chatbot powered by [Cohere](https://cohere.com).  
+** arfie ** is a Gen Z-flavored AI chatbot powered by [Cohere](https://cohere.com).  
 he's chill, sarcastic, a little sassy, and actually helpful for real 💀  
 made for fun, vibes, and facts — Arfie answers your questions with personality
 
